@@ -2,7 +2,9 @@ package examples.ForEachConsumer;
 
 public class Persona {//cambios
     String name;
+///
 
+    ///dd
     public Persona(String name) {
         this.name = name;
     }
