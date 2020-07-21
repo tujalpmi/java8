@@ -4,8 +4,9 @@ import java.util.ArrayList;
 
 public class CarritoBuilder {
 
-    ArrayList<Integer> precios = new ArrayList<Integer>();
 
+    ArrayList<Integer> precios = new ArrayList<Integer>();
+///aaaaa
     public CarritoBuilder(int size){
 
         for(int i = 0; i < size; i++){
