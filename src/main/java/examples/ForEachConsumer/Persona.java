@@ -6,7 +6,7 @@ public class Persona {//cambios
     public Persona(String name) {
         this.name = name;
     }
-
+///tt
     public String getName() {
         return name;
     }
