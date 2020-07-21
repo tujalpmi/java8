@@ -1,6 +1,6 @@
 package examples.ForEachConsumer;
 
-public class Persona {
+public class Persona {//cambios
     String name;
 
     public Persona(String name) {
